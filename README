@@ -1,0 +1,9 @@
+JCR-SOLR Camel Example
+
+A simple Apache Camel application which demonstrate how to listen for content updates in Java Content Repository.
+When a new node is added to repository, the will index its properties in Solr, and if the node gets deleted, the coresponding document will be deleted from Solr.
+
+mvn camel:run
+
+For more information see http://ofbizian.com/
+    
