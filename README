@@ -5,5 +5,5 @@ When a new node is added to repository, the will index its properties in Solr, a
 
 mvn camel:run
 
-For more information see http://ofbizian.com/
+For more information see http://www.ofbizian.com/2012/05/how-to-keep-your-content-repository-and.html
     
